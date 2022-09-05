@@ -7,7 +7,7 @@ https://stackblitz.com/fork/github/DEIN_GITHUB_USER/DEIN_GITHUB_REPOSITORY
 
 Die zwei Capslock Teile austauschen mit deinen Daten, dann den Link aufrufen. Die Teile sollten leicht zu erkennen sein, wenn du auf GitHub deinen Fork öffnest.
 
-1. In Stackblitz wähle "Connect Github" und wähle existierendes repository. Setze den Repository Namen auf das gerade geforkte Repository.
+1. In Stackblitz wähle "Connect Github" und wähle existierendes Repository. Gebe den Link zu deinem geforkten Repository ein.
 1. Nun arbeite unter diesem Stackblitz Link, am besten mache einen Bookmark.
 1. Um Änderungen an den Lehrer zu schicken mache commit, dann gehe auf Github und mache einen Pull Request, das wird in der ersten Stunde besprochen.
 
