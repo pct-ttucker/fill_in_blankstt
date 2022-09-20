@@ -11,13 +11,13 @@ export class PctLoginComponent implements OnInit {
   constructor(private router: Router) {}
 
   ngOnInit() {
-    // TODO check if there is a current user
-    // if yes, navigate to the main menu
+    // TODO check if there is a "current-user" stored in localStorage
+    // if yes, navigate to the main menu using this.navigateToMainMenu()
   }
 
   loginHandler() {
     // TODO
-    // 1. set the userName as the current username in localStorage
+    // 1. set "current-user" to the userName in localStorage
     // 2. call this.navigateToMainMenu() to leave the login page
     // 3. if userName is an empty string show an alert("Your message")
   }
