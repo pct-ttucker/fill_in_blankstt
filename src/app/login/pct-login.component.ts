@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { pctLogoData } from '../image-data';
 
 @Component({
   selector: 'app-pct-login',
@@ -7,6 +8,10 @@ import { Router } from '@angular/router';
   styleUrls: ['./pct-login.component.css'],
 })
 export class PctLoginComponent implements OnInit {
+  // This is how you can add images in stackblitz: Put the data url into a separate code file, then make it a field on your component
+  // then use the field in your html img tag, as you can see in pct-login
+  pctlogo = pctLogoData;
+
   userName = '';
   constructor(private router: Router) {}
 
