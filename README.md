@@ -19,5 +19,10 @@ Die zwei Capslock Teile austauschen mit deinen Daten, dann den Link aufrufen. Di
 4. Die Scanner-Seite (CSS & minimale Funktion), Die Highscores Seite (CSS & Funktion)
 5. Deployment (Showcase, ich gehe davon aus danach ist zu Ende, also keine Hausaufgabe)
 
-neuertext
+Beispieltext
+Zeile 1
+Zeile 2
+Zeile 3
+
+
 
