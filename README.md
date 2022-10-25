@@ -18,3 +18,6 @@ Die zwei Capslock Teile austauschen mit deinen Daten, dann den Link aufrufen. Di
 3. Die Create Seite (CSS & Funktion)
 4. Die Scanner-Seite (CSS & minimale Funktion), Die Highscores Seite (CSS & Funktion)
 5. Deployment (Showcase, ich gehe davon aus danach ist zu Ende, also keine Hausaufgabe)
+
+neuertext
+
